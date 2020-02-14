@@ -1,2 +1,3 @@
-ehsan kheiilliii khooobi.
-merciiii!!!
+def function():
+	print('hello')
+function()
